@@ -15,8 +15,6 @@ namespace ProjetIA2022
     public partial class Form1 : Form
     {                
 
-        // matis le nul
-
         static public double[,] matrice;
         static public int nblignes;
         static public int nbcolonnes;
