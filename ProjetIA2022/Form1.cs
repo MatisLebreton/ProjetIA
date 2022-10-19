@@ -16,6 +16,7 @@ namespace ProjetIA2022
     {
 
         // Pour test
+        // toujour pour test
 
         static public double[,] matrice;
         static public int nblignes;
